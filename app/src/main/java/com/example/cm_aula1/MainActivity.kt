@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
     //coisas
 
-    // mais coisas
+    // mais coisas do git
 
     }
 }
